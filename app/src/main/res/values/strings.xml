@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Workout Adviser</string>
+    <string name="btn1">new button</string>
+    <string name="workouts">Workouts Here!</string>
+    <string-array name="workout_types">
+        <item>Chest</item>
+        <item>Biceps</item>
+        <item>Shoulder</item>
+        <item>legs</item>
+
+    </string-array>
+</resources>
